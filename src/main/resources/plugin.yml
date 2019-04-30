@@ -1,0 +1,5 @@
+name: Yamler
+author: RoboMWM
+version: ${project.version}
+main: com.robomwm.yamler.Yamler
+api-version: 1.13
