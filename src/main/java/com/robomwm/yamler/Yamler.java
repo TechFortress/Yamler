@@ -63,7 +63,7 @@ public class Yamler extends JavaPlugin
             }
 
             if (theirs == null)
-                break;
+                continue;
 
             for (String key : ours.getKeys(true))
             {
